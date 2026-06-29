@@ -25,6 +25,11 @@ This repository contains a reinforcement learning and ROS2 integration project f
 - `Demos/`
   - Example video recordings.
 
+https://github.com/user-attachments/assets/b92e9baf-3fbd-4521-b7ba-b5b728413431
+
+
+
+
 ## Main features
 
 - ROS2 bridge for F1TENTH gym environment
